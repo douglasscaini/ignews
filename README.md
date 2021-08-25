@@ -31,11 +31,11 @@
 # Instalar as dependências necessárias:
 $ yarn
 
+# Configurar variáveis de ambiente:
+$  '.env.example' to '.env.local'
+
 # Iniciar o projeto:
 $ yarn dev
-
-# Configurar variáveis de ambiente:
-$  `.env.example` -> `.env.local`
 ```
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
