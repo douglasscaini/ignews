@@ -34,8 +34,8 @@ $ yarn
 # Iniciar o projeto:
 $ yarn dev
 
-# Configurar variável API Stribe:
-$ .env.local
+# Configurar variáveis de ambiente:
+$  `.env.example` -> `.env.local`
 ```
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
