@@ -32,7 +32,7 @@
 $ yarn
 
 # Configurar variáveis de ambiente:
-$  '.env.example' to '.env.local'
+$  .env.example to .env.local
 
 # Iniciar o projeto:
 $ yarn dev
@@ -44,7 +44,12 @@ $ yarn dev
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
+- [Sass](https://sass-lang.com/)
+- [Next](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
+- [Stripe](https://stripe.com/br)
+- [FaunaDB](https://fauna.com/)
+- [Next Auth](https://next-auth.js.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
