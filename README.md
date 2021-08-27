@@ -32,7 +32,8 @@
 $ yarn
 
 # Configurar variáveis de ambiente:
-$  .env.example to .env.local
+$ .env.example
+$ .env.local
 
 # Iniciar o projeto:
 $ yarn dev
@@ -48,6 +49,7 @@ $ yarn dev
 - [Next](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
 - [Stripe](https://stripe.com/br)
+- [Prismic](https://prismic.io/)
 - [FaunaDB](https://fauna.com/)
 - [Next Auth](https://next-auth.js.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
