@@ -13,7 +13,7 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
-> #
+> O `ig.news` é uma aplicação newsletter sobre o mundo React.
 
 <br />
 <table>
@@ -21,7 +21,7 @@
     <td colspan="1">Web</td>
   </tr>
   <tr>
-    <td><img src="./.github/#.gif" width=1000px /></td></td>
+    <td><img src="./.github/ignews.gif" width=1000px /></td></td>
   </tr>
 </table>
 
@@ -41,7 +41,17 @@ $ yarn dev
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
 
-> #
+> Aprimoramento e instrução de usabilidade de algumas ferramentas:
+>
+> - Next;
+> - Components;
+> - Stripe API;
+> - Api Routes;
+> - Next Auth;
+> - FaunaDB;
+> - Stripe Config;
+> - Webhooks;
+> - CMS (Prismic CMS).
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
