@@ -2,7 +2,7 @@
 
 <h3 align="center">ig.news</h3>
 
-<p align="center">“O que sabemos é uma gota. O que ignoramos é um oceano.”</p>
+<p align="center">“Software developers are students forever 🧠”</p>
 
 <p align="center">
   <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,9 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
-> O `ig.news` é uma aplicação newsletter sobre o mundo React.
+> O [ig.news](https://douglas-ignews.vercel.app/) é uma aplicação newsletter sobre o mundo React, onde é possível realizar uma `assinatura*` para ter acesso completo a informações da tecnologia.
+>
+> `*:` A assinatura proposta não acarreta a nenhum serviço. Essa aplicação foi realizada para portfólio e desenvolvida para fins estudantis.
 
 <br />
 <table>
@@ -32,11 +34,13 @@
 $ yarn
 
 # Configurar variáveis de ambiente:
-$ .env.example
-$ .env.local
+$ .env.example → $ .env.local
 
 # Iniciar o projeto:
 $ yarn dev
+
+# Ambiente de produção:
+$ É possível testar a funcionalidade do cartão com o número '4242 4242 4242 4242'
 ```
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
@@ -52,9 +56,11 @@ $ yarn dev
 > - Stripe Config;
 > - Webhooks;
 > - CMS (Prismic CMS).
+> - Jest
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
+- [Jest](https://jestjs.io/)
 - [Sass](https://sass-lang.com/)
 - [Next](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
