@@ -34,29 +34,30 @@
 $ yarn
 
 # Configurar variáveis de ambiente:
-$ .env.example → $ .env.local
+$ .env.example → .env.local
 
 # Iniciar o projeto:
 $ yarn dev
 
 # Ambiente de produção:
-$ É possível testar a funcionalidade do cartão com o número '4242 4242 4242 4242'
+$ É possível testar a inscrição com o cartão número: '4242 4242 4242 4242'
 ```
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
 
-> Aprimoramento e instrução de usabilidade de algumas ferramentas:
+> Essa aplicação envolveu o uso de muitas tecnologias atuais e necessárias para conhecimento básico de um desenvolvedor. Também se deu necessário a aprendizagem de teste e deploy do projeto.
+
+> Algumas das ferramentas utilizadas para aprimoramento de conhecimento foram:
 >
-> - Next;
-> - Components;
-> - Stripe API;
-> - Api Routes;
-> - Next Auth;
-> - FaunaDB;
-> - Stripe Config;
-> - Webhooks;
-> - CMS (Prismic CMS).
 > - Jest
+> - Next;
+> - FaunaDB;
+> - Next Auth;
+> - Stripe API;
+> - Webhooks;
+> - Api Routes;
+> - Components;
+> - CMS (Prismic CMS).
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
